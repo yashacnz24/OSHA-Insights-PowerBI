@@ -27,11 +27,11 @@
 
 Below are screenshots from the OSHA-Insights-PowerBI dashboard, illustrating the type of insights and analytics provided.
 
-![Main Dashboard](Main Dashboard.png)
+![Main Dashboard](/OSHA-Insights-PowerBI/MainDashboard.png)
 *Figure 1: Main Dashboard showing overall statistics and trends.*
 
-![Map Visualization](/screenshots/Map.png)
+![Map Visualization](/OSHA-Insights-PowerBI/Map.png)
 *Figure 2: Geographic distribution of work-related injuries.*
 
-![Employer Details](/screenshots/EmployerDetail.png)
+![Employer Details](/OSHA-Insights-PowerBI/EmployerDetail.png)
 *Figure 3: Analysis of incidents by employer.*
