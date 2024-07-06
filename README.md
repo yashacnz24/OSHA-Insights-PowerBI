@@ -27,7 +27,7 @@
 
 Below are screenshots from the OSHA-Insights-PowerBI dashboard, illustrating the type of insights and analytics provided.
 
-![Main Dashboard](/screenshots/Main Dashboard.png)
+![Main Dashboard](/screenshots/Main_Dashboard.png)
 *Figure 1: Main Dashboard showing overall statistics and trends.*
 
 ![Map Visualization](/screenshots/Map.png)
